@@ -35,7 +35,7 @@
 ### 🌐 Let's Connect:
 
 <p>
-  <a href="www.linkedin.com/in/suhailaktharsm" target="blank">
+  <a href="https://www.linkedin.com/in/suhailaktharsm" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:24f2002684@ds.study.iitm.ac.in">
